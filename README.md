@@ -12,25 +12,6 @@ Bu proje, C# ve LINQ kullanarak çeşitli liste işlemlerini gerçekleştiren ba
 - 15'ten büyük ve 22'den küçük sayıları filtreleme
 - Her sayının karesini hesaplama
 
-## Gereksinimler
-
-- .NET 5.0 veya üzeri
-
-## Kullanım
-
-1. Projeyi klonlayın:
-   ```
-   git clone https://github.com/kullaniciadi/linq-pratik-ornegi.git
-   ```
-2. Proje dizinine gidin:
-   ```
-   cd linq-pratik-ornegi
-   ```
-3. Uygulamayı çalıştırın:
-   ```
-   dotnet run
-   ```
-
 ## Kod Örneği
 
 İşte projenin ana mantığını gösteren bir kod parçası:
